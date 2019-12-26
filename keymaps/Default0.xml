@@ -1,0 +1,8 @@
+<keymap version="1" name="Default复制0" parent="$default">
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>

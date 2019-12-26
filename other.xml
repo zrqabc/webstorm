@@ -1,0 +1,23 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.13.0" last-modified="1540856314000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.3.105:8443/svn/hangzhou-union/code/hangzhou-union" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.3.105:8443/svn/hangzhou-union/code/hangzhou-union" />
+        <option value="https://192.168.3.105:8443/svn/hangzhou-union/code/hangzhou-union/hangzhou-union" />
+        <option value="https://192.168.3.105:8443/svn/hangzhou-union/code" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="F:\svn\bin\svn.exe" />
+  </component>
+</application>
