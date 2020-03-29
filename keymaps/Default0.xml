@@ -5,4 +5,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
 </keymap>
