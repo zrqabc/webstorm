@@ -3,7 +3,7 @@
     <option name="FONT_SIZE" value="18" />
   </component>
   <component name="EditorSettings">
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
