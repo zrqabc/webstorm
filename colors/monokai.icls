@@ -134,7 +134,6 @@
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="f72671" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
@@ -198,7 +197,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -219,7 +217,6 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -229,7 +226,6 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="a4a084" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -242,7 +238,6 @@
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -268,7 +263,6 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -290,12 +284,10 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="6e6b68" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -315,6 +307,9 @@
         <option name="FOREGROUND" value="1ed3a6" />
       </value>
     </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value />
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
@@ -328,7 +323,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -337,7 +331,6 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="1ed3a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -475,6 +468,11 @@
         <option name="FOREGROUND" value="f72671" />
       </value>
     </option>
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f72671" />
@@ -484,7 +482,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="a6e22e" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
@@ -560,7 +557,6 @@
       <value>
         <option name="FOREGROUND" value="252621" />
         <option name="BACKGROUND" value="ff4841" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.BLOCK_COMMENT">
@@ -630,7 +626,6 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6ccab8" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -645,7 +640,6 @@
     </option>
     <option name="JS.LABEL">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="1ed3a6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -872,13 +866,14 @@
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
       <value>
         <option name="FOREGROUND" value="dcb714" />
-        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="MARKDOWN_BOLD">
+      <value />
     </option>
     <option name="MARKDOWN_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="d76011" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_FENCE">
@@ -889,7 +884,6 @@
     <option name="MARKDOWN_EXPLICIT_LINK">
       <value>
         <option name="FOREGROUND" value="d77621" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
@@ -932,13 +926,11 @@
     <option name="MARKDOWN_ITALIC">
       <value>
         <option name="FOREGROUND" value="a2b1b4" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC_MARKER">
       <value>
         <option name="FOREGROUND" value="9d550f" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_LABEL">
@@ -956,8 +948,10 @@
     <option name="MARKDOWN_LIST_MARKER">
       <value>
         <option name="FOREGROUND" value="d75e49" />
-        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="MARKDOWN_REFERENCE_LINK">
+      <value />
     </option>
     <option name="MARKDOWN_TEXT">
       <value>
@@ -1169,13 +1163,11 @@
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.ESC_CHARACTER">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
@@ -1187,19 +1179,16 @@
     <option name="REGEXP.META">
       <value>
         <option name="FOREGROUND" value="f92672" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_COLON">
@@ -1615,7 +1604,6 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="a6e22e" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
