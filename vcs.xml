@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.weifengqi18.com" />
           <option name="userName" value="zrq@weifengqi18.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="zrqabc" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
