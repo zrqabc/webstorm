@@ -5,4 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="de" value="/**&#10; * 封装get方法&#10; * @param 参数&#10; * @author zhangruiqi&#10; * @time $time$&#10; */" description="生成注释描述" toReformat="false" toShortenFQNames="true">
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
