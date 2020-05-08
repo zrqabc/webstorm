@@ -1,11 +1,11 @@
 <templateSet group="React">
-  <template name="rcc" value="import React, {Component} from 'react';&#10;&#10;export default class $param$ extends Component {&#10;    constructor(props){&#10;        super(props);&#10;        this.state = {&#10;            &#10;        }&#10;    }&#10;    &#10;    render() {&#10;        return (&#10;            &lt;div className=&quot;&quot;&gt;&#10;&#10;            &lt;/div&gt;&#10;        )&#10;    }&#10;    &#10;}&#10;&#10;&#10;" description="创建react类组件" toReformat="false" toShortenFQNames="true">
+  <template name="rcc" value="import React, {Component} from 'react';&#10;&#10;export default class $param$ extends Component {&#10;  constructor(props){&#10;    super(props);&#10;    this.state = {&#10;&#10;    }&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;div className=&quot;&quot;&gt;&#10;&#10;      &lt;/div&gt;&#10;    )&#10;  }&#10;&#10;}&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;" description="创建react类组件" toReformat="false" toShortenFQNames="true">
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rfc" value="import React from 'react'&#10;&#10;export default function $param$() {&#10;    return (&#10;        &lt;div className=&quot;&quot;&gt;&#10;&#10;        &lt;/div&gt;&#10;    )&#10;}" description="创建react函数组件" toReformat="false" toShortenFQNames="true">
+  <template name="rfc" value="import React from 'react'&#10;&#10;export default function $param$() {&#10;  return (&#10;    &lt;div className=&quot;&quot;&gt;&#10;&#10;    &lt;/div&gt;&#10;  )&#10;}&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;" description="创建react函数组件" toReformat="false" toShortenFQNames="true">
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
