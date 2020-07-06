@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/ECMAScript 6/Convert arrow function to anonymous function" />
     <ignoreAction name="JavaScript/ECMAScript 6/Add export" />
+    <ignoreAction name="CSS/Expand CSS shorthand property" />
+    <ignoreAction name="CSS/Extract ruleset" />
   </component>
 </application>
