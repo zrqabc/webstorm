@@ -1,3 +1,0 @@
-<templateSet group="Zen CSS">
-  <template name="re" value="rem" description="补全rem" toReformat="true" toShortenFQNames="true" />
-</templateSet>
