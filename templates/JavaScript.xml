@@ -5,9 +5,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="de" value="/**&#10; * $description$&#10; * @param 参数&#10; * @author zhangruiqi&#10; * @time $time$&#10; */" description="生成注释描述" toReformat="false" toShortenFQNames="true">
+  <template name="de" value="/**&#10; * $description$&#10; * @param 参数&#10; */" description="生成注释描述" toReformat="false" toShortenFQNames="true">
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
