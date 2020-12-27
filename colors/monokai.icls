@@ -65,9 +65,19 @@
         <option name="FOREGROUND" value="a81b4f" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -77,7 +87,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="98a188" />
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -838,7 +848,12 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="736f5c" />
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
