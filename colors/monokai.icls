@@ -12,6 +12,7 @@
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DOCUMENTATION_COLOR" value="46484a" />
     <option name="GUTTER_BACKGROUND" value="252621" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
     <option name="HTML_TAG_TREE_LEVEL1" value="ffff00" />
@@ -21,6 +22,7 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="ff00ff" />
     <option name="INDENT_GUIDE" value="494848" />
     <option name="LINE_NUMBERS_COLOR" value="6e6b68" />
+    <option name="LOOKUP_COLOR" value="46484a" />
     <option name="MODIFIED_LINES_COLOR" value="67727b" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
