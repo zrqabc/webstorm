@@ -1,3 +1,18 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="AngularCliAddDependency" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AngularInaccessibleComponentMemberInAotMode" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AngularInsecureBindingToEvent" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AngularInvalidExpressionResultType" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AngularInvalidI18nAttribute" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CoffeeScriptFunctionSignatures" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CoffeeScriptInfiniteLoop" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CoffeeScriptModulesDependencies" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CoffeeScriptSillyAssignment" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CoffeeScriptSwitchStatementWithNoDefaultBranch" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CoffeeScriptUnusedLocalSymbols" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="ComposeUnquotedPorts" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="VueDataFunction" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="VueDuplicateTag" enabled="true" level="TYPO" enabled_by_default="true" />
 </profile>
