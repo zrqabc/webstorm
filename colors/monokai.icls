@@ -867,9 +867,7 @@
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
+      <value />
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
