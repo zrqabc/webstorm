@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="con" value="console.log($param$);" description="控制台输出" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="de" value="/**&#10; * $description$&#10; * @param 参数&#10; */" description="生成注释描述" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

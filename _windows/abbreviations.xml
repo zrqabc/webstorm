@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="RenameElement" />
+      <action id="EditorEnter" />
+    </abbreviations>
+  </component>
+</application>
