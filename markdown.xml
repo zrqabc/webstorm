@@ -1,7 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="jar:file:/C:/Users/ASUS-PC/.WebStorm2017.1/config/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css">
-      <option name="fontSize" value="13" />
-    </MarkdownCssSettings>
+    <MarkdownCssSettings StylesheetUri="jar:file:/C:/Users/ASUS-PC/.WebStorm2017.1/config/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
   </component>
 </application>
