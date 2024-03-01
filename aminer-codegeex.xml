@@ -5,7 +5,12 @@
     <option name="generationModelEnum" value="CodegeexPro" />
     <option name="telemetryConfigured" value="true" />
     <option name="enableCompletions" value="false" />
+    <option name="sessionId" value="e28b0921-8ed2-4f5e-8274-0654a00efc20" />
     <option name="macAddress" value="AC-DE-48-00-11-22" />
+    <option name="userId" value="c6cfd8ce36dd4f65a41575cbf1885990" />
+    <option name="userName" value="Ricky" />
+    <option name="source" value="wechat_open" />
+    <option name="sourceId" value="oTz1V6BRerShaPbQ6LLXJSRQXhvc" />
     <option name="configCacheSeconds" value="43200" />
     <option name="minCompletionDelay" value="500" />
     <option name="serverConfig">

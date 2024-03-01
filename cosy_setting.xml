@@ -1,0 +1,67 @@
+<application>
+  <component name="CosySettings">
+    <option name="manualOpenLocalModel" value="true" />
+    <option name="parameter">
+      <ChangeUserSettingParams>
+        <option name="allowReportUsage" value="true" />
+        <option name="cloud">
+          <CloudModelParam>
+            <option name="autoTrigger">
+              <CloudModelAutoTrigger>
+                <option name="enable" value="true" />
+                <option name="generateLength" value="level_1" />
+                <option name="modelLevel" value="large" />
+              </CloudModelAutoTrigger>
+            </option>
+            <option name="enable" value="true" />
+            <option name="manualTrigger">
+              <CloudModelManualTrigger>
+                <option name="generateLength" value="level_2" />
+                <option name="modelLevel" value="large" />
+              </CloudModelManualTrigger>
+            </option>
+          </CloudModelParam>
+        </option>
+        <option name="local">
+          <LocalModelParam>
+            <option name="enable" value="true" />
+            <option name="inferenceMode" value="auto" />
+            <option name="maxCandidateNum" value="3" />
+          </LocalModelParam>
+        </option>
+      </ChangeUserSettingParams>
+    </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="hymodelpweb|">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
+        <entry key="hymodelpweb|1789708900522916">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="/generate unit test" />
+              <option value="/generate comment" />
+              <option value="/generate optimization" />
+              <option value="/explain code" />
+              <option value="/generate unit test" />
+              <option value="/generate comment" />
+              <option value="/generate optimization" />
+              <option value="idea的settings Repository插件多久同步一次" />
+              <option value="webstorm的settings Repository插件多久同步一次" />
+              <option value="比亚迪秦plus-dmi油耗多少" />
+              <option value="Mac版本的搜狗输入法在光标处会显示搜狗图标，如何设置不显示此图标" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
+  </component>
+</application>
