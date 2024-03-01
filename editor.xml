@@ -24,6 +24,14 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#function.returns" />
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="js.type.hints#variables.and.fields" />
+      </set>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="true" />
