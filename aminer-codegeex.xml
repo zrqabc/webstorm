@@ -7,6 +7,7 @@
     <option name="telemetryEnabled" value="true" />
     <option name="telemetryConfigured" value="true" />
     <option name="enableCompletions" value="false" />
+    <option name="checkForUpdate" value="false" />
     <option name="sessionId" value="e28b0921-8ed2-4f5e-8274-0654a00efc20" />
     <option name="macAddress" value="AC-DE-48-00-11-22" />
     <option name="userId" value="c6cfd8ce36dd4f65a41575cbf1885990" />
