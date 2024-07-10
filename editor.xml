@@ -34,7 +34,7 @@
     </option>
     <option name="providerIdToEnabled">
       <map>
-        <entry key="js.chain.hints" value="true" />
+        <entry key="js.chain.hints" value="false" />
         <entry key="js.type.hints" value="false" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="true" />
