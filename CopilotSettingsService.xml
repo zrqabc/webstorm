@@ -27,11 +27,11 @@
         <option name="tokenType" value="Bearer" />
       </TokenInfo>
     </option>
-    <option name="updateVersion" value="3.1.11" />
+    <option name="updateVersion" value="" />
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.cloud.codingcopilot" />
-        <entry key="version" value="3.1.11" />
+        <entry key="version" value="" />
       </map>
     </option>
     <option name="craftModelMap">
