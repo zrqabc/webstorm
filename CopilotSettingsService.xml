@@ -1,0 +1,43 @@
+<application>
+  <component name="CopilotSettingsServiceImpl">
+    <option name="firstInstall" value="false" />
+    <option name="selectChatModel">
+      <Model>
+        <option name="id" value="10000" />
+        <option name="isDefault" value="true" />
+        <option name="name" value="hunyuan" />
+        <option name="requestBody">
+          <RequestBody>
+            <option name="model" value="hunyuan-chat" />
+          </RequestBody>
+        </option>
+        <option name="type" value="chat" />
+      </Model>
+    </option>
+    <option name="tokenInfo">
+      <TokenInfo>
+        <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJteWZFenA3ODNLaV9KQ3g4Vm5jM1hfaXg2alpyYjZDZjVPTWtHWk1QSTNzIn0.eyJleHAiOjE3Nzg4MzMwNDUsImlhdCI6MTc0NzI5NzA0NiwiYXV0aF90aW1lIjoxNzQ3Mjk3MDQ1LCJqdGkiOiJmZGU3NmQzMS1lODI3LTRkODEtODllNC0yY2MxYWY4YTUyOTciLCJpc3MiOiJodHRwczovL2NvcGlsb3QudGVuY2VudC5jb20vYXV0aC9yZWFsbXMvY29waWxvdCIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJiZThmMzZjMC0yM2RkLTRkNzktYjVhZS0yOGEzOTgzNmVlOTUiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJjb25zb2xlIiwic2lkIjoiN2UwNDRiZGEtYTVlYy00OWM5LThhNGItZDM0YTE5MTJlNDdmIiwiYWNyIjoiMCIsImFsbG93ZWQtb3JpZ2lucyI6WyIqIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJkZWZhdWx0LXJvbGVzIiwib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgb2ZmbGluZV9hY2Nlc3MgZW1haWwiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsIm5pY2tuYW1lIjoiUmlja3kiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiI5NGFkNzcwMS1jMDI3LTRiMTYtOGUwYy05MTA0MDFjNjE0NjAtcmlja3kifQ.SelHsqT46QrN7FNihAUqMaMEDSIXeJpaappaeG1MKpTnW4iALiiOx0NfvTP9qt_qDigcZnZTN2pBYJFnar9lmVNxPb9pjCiPwGeUZdT-RX3SNxQIaPbN--lfT56bl0UAm5kY_tOfMLpgZANghSBp6CPvDsEwZSA5S5pSRN9kK01u3ih_DFKZK_5HcjAQ_fDzwf9fIXEFsN-or4caz88JW2DI7MjONg4Yz5PWBIMNhkKEYB3XMiv4vPCrdin_WxQs8lITkdTbmzEOIM1O6DH4rWSb_RabwNpEU5UsCKJBpHfJOhUSr4mz-z-vt9mPM-3qbzIyNlrpfECA3cC2oUks3Q" />
+        <option name="domain" value="copilot.tencent.com" />
+        <option name="expireAt" value="1778833047310" />
+        <option name="expiresIn" value="31535977" />
+        <option name="refreshExpiresIn" value="31535977" />
+        <option name="refreshToken" value="eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2M2I4YzRkNS1jMTJjLTRhMGQtYjk5NC01ZTBjMDY0N2QwMDIifQ.eyJleHAiOjE3Nzg4MzMwNDUsImlhdCI6MTc0NzI5NzA0NiwianRpIjoiMzYxMDRmYWMtMmVhZS00MWRmLWFlOTgtN2ZiNDU0ZWFlNDQ5IiwiaXNzIjoiaHR0cHM6Ly9jb3BpbG90LnRlbmNlbnQuY29tL2F1dGgvcmVhbG1zL2NvcGlsb3QiLCJhdWQiOiJodHRwczovL2NvcGlsb3QudGVuY2VudC5jb20vYXV0aC9yZWFsbXMvY29waWxvdCIsInN1YiI6ImJlOGYzNmMwLTIzZGQtNGQ3OS1iNWFlLTI4YTM5ODM2ZWU5NSIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJjb25zb2xlIiwic2lkIjoiN2UwNDRiZGEtYTVlYy00OWM5LThhNGItZDM0YTE5MTJlNDdmIiwic2NvcGUiOiJvcGVuaWQgYWNyIHByb2ZpbGUgYmFzaWMgd2ViLW9yaWdpbnMgcm9sZXMgb2ZmbGluZV9hY2Nlc3MgZW1haWwifQ.UnVo8KEtii8ZiRUti_Wb6M60V__yk9gitFBXyWtbW2u7hTLhXP-6KXhuz5C-JCb-rXcrHYAOuhKmn2XCzpr3iw" />
+        <option name="scope" value="openid profile offline_access email" />
+        <option name="sessionState" value="7e044bda-a5ec-49c9-8a4b-d34a1912e47f" />
+        <option name="tokenType" value="Bearer" />
+      </TokenInfo>
+    </option>
+    <option name="updateVersion" value="3.1.11" />
+    <option name="updateVersionInfo">
+      <map>
+        <entry key="pluginId" value="com.tencent.cloud.codingcopilot" />
+        <entry key="version" value="3.1.11" />
+      </map>
+    </option>
+    <option name="craftModelMap">
+      <map>
+        <entry workspacePath="file://$USER_HOME$/Documents/works/xt/hydraulicmodelplatweb" craftModelId="default" />
+      </map>
+    </option>
+  </component>
+</application>
