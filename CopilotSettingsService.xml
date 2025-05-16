@@ -1,5 +1,6 @@
 <application>
   <component name="CopilotSettingsServiceImpl">
+    <option name="activate" value="false" />
     <option name="codeStyle" value="SingleLine" />
     <option name="commitMessageLanguage" value="zh_CN" />
     <option name="commitMessageStyle" value="auto" />
