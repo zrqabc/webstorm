@@ -6,7 +6,6 @@
     <option name="commitMessageStyle" value="auto" />
     <option name="commitMessageTAPDEnable" value="true" />
     <option name="firstInstall" value="false" />
-    <option name="funcTipsEnable" value="true" />
     <option name="inlayTipEnable" value="false" />
     <option name="inlineChatEnable" value="false" />
     <option name="networkProxyAddress" value="" />
