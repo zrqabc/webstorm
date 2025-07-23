@@ -40,7 +40,7 @@
         <option name="tokenType" value="Bearer" />
       </TokenInfo>
     </option>
-    <option name="updateVersion" value="" />
+    <option name="updateVersion" value="3.1.15" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="javascript" languageIdEnable="true" />
@@ -51,11 +51,13 @@
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.cloud.codingcopilot" />
-        <entry key="version" value="" />
+        <entry key="version" value="3.1.15" />
       </map>
     </option>
     <option name="craftModelMap">
       <map>
+        <entry workspacePath="file://$USER_HOME$/Documents/works/xt/habariverweb" craftModelId="default" />
+        <entry workspacePath="file://$USER_HOME$/Documents/works/xt/hbh-supply-web" craftModelId="default" />
         <entry workspacePath="file://$USER_HOME$/Documents/works/xt/hydraulicmodelplatweb" craftModelId="default" />
       </map>
     </option>
