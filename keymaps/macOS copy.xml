@@ -6,128 +6,65 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="tencentcloud.codingcopilot.addToChat_599b98bd">
-    <keyboard-shortcut first-keystroke="ctrl meta i" />
-  </action>
   <action id="tencentcloud.codingcopilot.addToChat_98740a6c">
     <keyboard-shortcut first-keystroke="ctrl meta i" />
-  </action>
-  <action id="tencentcloud.codingcopilot.chat.explainCode_599b98bd">
-    <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
   <action id="tencentcloud.codingcopilot.chat.explainCode_98740a6c">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
-  <action id="tencentcloud.codingcopilot.chat.fixCode_599b98bd">
-    <keyboard-shortcut first-keystroke="shift alt b" />
-  </action>
   <action id="tencentcloud.codingcopilot.chat.fixCode_98740a6c">
     <keyboard-shortcut first-keystroke="shift alt b" />
-  </action>
-  <action id="tencentcloud.codingcopilot.chat.generateTests_599b98bd">
-    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="tencentcloud.codingcopilot.chat.generateTests_98740a6c">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
-  <action id="tencentcloud.codingcopilot.chat.reviewCode_599b98bd">
-    <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
   <action id="tencentcloud.codingcopilot.chat.reviewCode_98740a6c">
     <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
-  <action id="tencentcloud.codingcopilot.chat.summaryCode_599b98bd">
-    <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
   <action id="tencentcloud.codingcopilot.chat.summaryCode_98740a6c">
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
-  <action id="tencentcloud.codingcopilot.chat.switchChatModeV2_599b98bd">
-    <keyboard-shortcut first-keystroke="meta l" />
-  </action>
   <action id="tencentcloud.codingcopilot.chat.switchChatModeV2_98740a6c">
     <keyboard-shortcut first-keystroke="meta l" />
-  </action>
-  <action id="tencentcloud.codingcopilot.chat.switchChatMode_599b98bd">
-    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="tencentcloud.codingcopilot.chat.switchChatMode_98740a6c">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="tencentcloud.codingcopilot.completions.accept.all_599b98bd">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="tencentcloud.codingcopilot.completions.accept.all_98740a6c">
     <keyboard-shortcut first-keystroke="tab" />
-  </action>
-  <action id="tencentcloud.codingcopilot.completions.accept.line_599b98bd">
-    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="tencentcloud.codingcopilot.completions.accept.line_98740a6c">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="tencentcloud.codingcopilot.completions.accept.word_599b98bd">
-    <keyboard-shortcut first-keystroke="alt w" />
-  </action>
   <action id="tencentcloud.codingcopilot.completions.accept.word_98740a6c">
     <keyboard-shortcut first-keystroke="alt w" />
-  </action>
-  <action id="tencentcloud.codingcopilot.completions.dismiss_599b98bd">
-    <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="tencentcloud.codingcopilot.completions.dismiss_98740a6c">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
-  <action id="tencentcloud.codingcopilot.inlineChat.document.code_599b98bd">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
   <action id="tencentcloud.codingcopilot.inlineChat.document.code_98740a6c">
     <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="tencentcloud.codingcopilot.inlineChat.start_599b98bd">
-    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="tencentcloud.codingcopilot.inlineChat.start_98740a6c">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
-  <action id="tencentcloud.codingcopilot.inlineChat.task.accept.near_599b98bd">
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
   <action id="tencentcloud.codingcopilot.inlineChat.task.accept.near_98740a6c">
     <keyboard-shortcut first-keystroke="alt a" />
-  </action>
-  <action id="tencentcloud.codingcopilot.inlineChat.task.cancel.near_599b98bd">
-    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="tencentcloud.codingcopilot.inlineChat.task.cancel.near_98740a6c">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="tencentcloud.codingcopilot.inlineChat.task.reject.near_599b98bd">
-    <keyboard-shortcut first-keystroke="alt x" />
-  </action>
   <action id="tencentcloud.codingcopilot.inlineChat.task.reject.near_98740a6c">
     <keyboard-shortcut first-keystroke="alt x" />
-  </action>
-  <action id="tencentcloud.codingcopilot.inlineChat.task.retry.near_599b98bd">
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="tencentcloud.codingcopilot.inlineChat.task.retry.near_98740a6c">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="tencentcloud.codingcopilot.nes.accept.all_599b98bd">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="tencentcloud.codingcopilot.nes.accept.all_98740a6c">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
-  <action id="tencentcloud.codingcopilot.nes.dismiss_599b98bd">
-    <keyboard-shortcut first-keystroke="escape" />
-  </action>
   <action id="tencentcloud.codingcopilot.nes.dismiss_98740a6c">
     <keyboard-shortcut first-keystroke="escape" />
-  </action>
-  <action id="tencentcloud.codingcopilot.nes.trigger_599b98bd">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="tencentcloud.codingcopilot.nes.trigger_98740a6c">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
