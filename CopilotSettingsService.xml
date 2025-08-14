@@ -8,11 +8,14 @@
     <option name="firstInstall" value="false" />
     <option name="inlayTipEnable" value="false" />
     <option name="inlineChatEnable" value="false" />
+    <option name="inlinePopupEnable" value="false" />
     <option name="login" value="true" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
+    <option name="nextEditSuggestionEnable" value="false" />
     <option name="preferInlineCompletionEnable" value="false" />
     <option name="showInlayTool" value="false" />
+    <option name="sideBySideEnable" value="false" />
     <option name="tabOverTimes" value="true" />
     <option name="updateVersion" value="3.2.0" />
     <option name="disabledLanguages">
