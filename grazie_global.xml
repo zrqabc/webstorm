@@ -5,10 +5,11 @@
         <option name="suppressed">
           <set>
             <option value="'" />
+            <option value="px2value" />
             <option value="“" />
             <option value="}" />
             <option value=",)" />
-            <option value="px2value" />
+            <option value=")" />
           </set>
         </option>
       </SuppressingContext>
