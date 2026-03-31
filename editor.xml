@@ -22,6 +22,7 @@
         <option value="vcs.code.vision" />
       </set>
     </option>
+    <option name="enabled" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
@@ -30,7 +31,7 @@
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="false" />
-        <entry key="js.type.hints" value="true" />
+        <entry key="js.type.hints" value="false" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
