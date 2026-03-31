@@ -27,14 +27,6 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
-    <option name="disabledOptions">
-      <set>
-        <option value="js.type.hints#function.returns" />
-        <option value="js.type.hints#non.paren.single.param" />
-        <option value="js.type.hints#parameters.in.parens" />
-        <option value="js.type.hints#variables.and.fields" />
-      </set>
-    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="false" />
@@ -72,10 +64,6 @@
       <item index="10" class="java.lang.String" itemvalue="WARNING" />
       <item index="11" class="java.lang.String" itemvalue="ERROR" />
     </list>
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
