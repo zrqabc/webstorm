@@ -15,9 +15,11 @@
         <entry key="CodeStyleStatusBarWidget" value="false" />
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="FlowJSInfo" value="false" />
+        <entry key="LanguageServiceStatusBarWidget" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptEngineStatusBarWidget" value="false" />
+        <entry key="git" value="true" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
