@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="DIFFERENTIATE_PROJECTS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
