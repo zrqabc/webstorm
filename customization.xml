@@ -141,10 +141,21 @@
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
+    <group value="main.toolbar.Project" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+    </group>
+    <group value="main.toolbar.Filename" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+    </group>
     <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
+    <action id="main.toolbar.Filename" icon="jar:file:/Applications/WebStorm.app/Contents/lib/intellij.platform.ide.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
